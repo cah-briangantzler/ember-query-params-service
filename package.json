@@ -32,7 +32,7 @@
     "ember-cli-babel": "^7.26.6",
     "ember-cli-htmlbars": "^5.7.1",
     "ember-cli-typescript": "^4.2.1",
-    "qs": "^6.9.4"
+    "qs": "^6.10.1"
   },
   "devDependencies": {
     "@ember/optional-features": "^2.0.0",
@@ -42,7 +42,7 @@
     "@types/ember-test-helpers": "^1.0.10",
     "@types/ember-testing-helpers": "^0.0.4",
     "@types/ember__test-helpers": "^2.0.1",
-    "@types/qs": "^6.9.1",
+    "@types/qs": "^6.9.7",
     "@types/qunit": "^2.11.2",
     "@types/rsvp": "^4.0.4",
     "@typescript-eslint/eslint-plugin": "^2.34.0",
